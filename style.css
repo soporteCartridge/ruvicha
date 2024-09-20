@@ -89,7 +89,8 @@
   }
   
   .hero {
-      background-image: url('../image/fondo.jpg'); /* Aquí va la URL de tu imagen */
+      background: linear-gradient(to right, #8B4513, #c3714b);
+      /*background-image: url('../image/fondo.jpg');  Aquí va la URL de tu imagen */
       background-size: cover; /* La imagen cubre todo el área */
       background-position: center; /* Centrar la imagen */
       height: 100vh; /* Altura del header igual a la altura de la ventana */
