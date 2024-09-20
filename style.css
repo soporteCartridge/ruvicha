@@ -9,7 +9,17 @@
     color: #333;
   }
   
-  
+  .hero {
+    background-image: url('../image/fondo.jpg'); /* Imagen de fondo de chocolate */
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  }
   
   .overlay {
     position: absolute;
